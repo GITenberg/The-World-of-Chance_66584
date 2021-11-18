@@ -1,0 +1,31 @@
+_repo: The-World-of-Chance_66584
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: https://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2021-10-21'
+identifiers:
+  gutenberg: '66584'
+  lccn: '07005675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Publishers and publishing -- Fiction'
+- !lcsh 'Novelists -- Fiction'
+- GITenberg
+title: The World of Chance
+url: http://www.gutenberg.org/ebooks/66584
